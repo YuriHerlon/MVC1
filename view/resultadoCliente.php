@@ -14,7 +14,7 @@
   <body>
 
     <div class="container">
-        <h1>Dados do cliente salvo com sucesso </h1>
+        <h1>Dados do cliente salvos com sucesso ! </h1>
             <h6>Nome: <?=$nome?><h6>
             <h6>Data Nascimento: <?=$datanasc?><h6>
 
